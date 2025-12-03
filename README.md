@@ -1,4 +1,4 @@
-please tell me bugs you can find
+please tell me any issues
 
 # Hypixel Chat Logger
 Have you ever been in the sweatiest bedwars game, and your teammate gives you vital comms, but you miss his message?
