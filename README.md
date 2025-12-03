@@ -10,10 +10,10 @@ stores the location elsewhere, feel free to rebuild the executable with the code
 
 This was designed in mind for people with more than one display, however nothing stops you from alt-tabbing to view msgs.
 
-# How it looks empty:
+# How it looks with messages:
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/eda40b39-cbd2-4936-8532-33ffe8881f92" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b5211378-188a-4c54-87c0-dcadc2b6db58" />
 
-# How it will look with a couple messages:
+
 
 
